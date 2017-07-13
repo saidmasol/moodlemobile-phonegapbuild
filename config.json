@@ -11,7 +11,7 @@
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "siteurl": "https://lasnoser.com/moodle30/",
-    "skipssoconfirmation": "false",
+    "skipssoconfirmation": "true",
     "forcedefaultlanguage": "true",
     "privacypolicy": "http://uiass-etudiants.ma/moodle/mod/page/view.php?id=8148"
 }
